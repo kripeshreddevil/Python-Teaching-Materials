@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93cd2304-aeb9-43b3-ac75-9d0bf10d3b3f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2brnkg6j18BZUhHV9SRXcR0WAmT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FileHandling&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kripe\PycharmProjects\pythonProject\PracticeQuestions\ImportingFunctions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.imported_function_use">
+    <configuration name="DisplayCurrentDateTime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticeQuestions/ImportingFunctions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticeQuestions/ImportingFunctions/DisplayCurrentDateTime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Notebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Notebook/MyApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WritingToACSVFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python FIles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python FIles/WritingToACSVFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WritingToAJSONFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python FIles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python FIles/WritingToAJSONFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imported_function_use" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticeQuestions/ImportingFunctions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticeQuestions/ImportingFunctions/imported_function_use.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.imported_function_use" />
+        <item itemvalue="Python.WritingToAJSONFile" />
+        <item itemvalue="Python.WritingToACSVFile" />
+        <item itemvalue="Python.MyApp" />
+        <item itemvalue="Python.DisplayCurrentDateTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93cd2304-aeb9-43b3-ac75-9d0bf10d3b3f" name="Changes" comment="" />
+      <created>1706982209533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706982209533</updated>
+      <workItem from="1706982210883" duration="2450000" />
+      <workItem from="1707017291046" duration="12000" />
+      <workItem from="1707135054851" duration="1276000" />
+      <workItem from="1707412198499" duration="5609000" />
+      <workItem from="1707739804733" duration="718000" />
+      <workItem from="1707741158149" duration="11000" />
+      <workItem from="1719383892303" duration="15000" />
+      <workItem from="1722834690753" duration="791000" />
+      <workItem from="1722837445336" duration="4542000" />
+      <workItem from="1722920332900" duration="12230000" />
+      <workItem from="1722958589213" duration="18000" />
+      <workItem from="1722958618904" duration="5706000" />
+      <workItem from="1723009215955" duration="11533000" />
+      <workItem from="1723049726893" duration="959000" />
+      <workItem from="1723083335043" duration="22363000" />
+      <workItem from="1723172087900" duration="7292000" />
+      <workItem from="1723687704988" duration="240000" />
+      <workItem from="1726590347850" duration="780000" />
+      <workItem from="1726596690408" duration="51000" />
+      <workItem from="1726674459707" duration="28000" />
+      <workItem from="1726674500314" duration="4931000" />
+      <workItem from="1726762438071" duration="966000" />
+      <workItem from="1726764827275" duration="735000" />
+      <workItem from="1726984010668" duration="5184000" />
+      <workItem from="1727063616305" duration="6327000" />
+      <workItem from="1727112078559" duration="412000" />
+      <workItem from="1727154407328" duration="2342000" />
+      <workItem from="1727244457324" duration="4063000" />
+      <workItem from="1727429630080" duration="2071000" />
+      <workItem from="1727583309971" duration="286000" />
+      <workItem from="1729133391584" duration="12000" />
+      <workItem from="1729612034447" duration="3129000" />
+      <workItem from="1729617406648" duration="34000" />
+      <workItem from="1729654615484" duration="3033000" />
+      <workItem from="1729861359981" duration="5411000" />
+      <workItem from="1729910110686" duration="78000" />
+      <workItem from="1729910198147" duration="611000" />
+      <workItem from="1730198966737" duration="1197000" />
+      <workItem from="1730346480434" duration="20000" />
+      <workItem from="1731312451626" duration="80000" />
+      <workItem from="1731379770850" duration="3195000" />
+      <workItem from="1731387755220" duration="71000" />
+      <workItem from="1731392797263" duration="23000" />
+      <workItem from="1731392829124" duration="732000" />
+      <workItem from="1731401052727" duration="2959000" />
+      <workItem from="1731430829998" duration="596000" />
+      <workItem from="1731477128129" duration="1000" />
+      <workItem from="1731557866002" duration="2427000" />
+      <workItem from="1731565940021" duration="2620000" />
+      <workItem from="1731639874725" duration="124000" />
+      <workItem from="1731808677097" duration="62000" />
+      <workItem from="1731816007900" duration="52000" />
+      <workItem from="1731816071503" duration="3716000" />
+      <workItem from="1731829527360" duration="3065000" />
+      <workItem from="1731895086544" duration="4612000" />
+      <workItem from="1731903901223" duration="2840000" />
+      <workItem from="1731935819104" duration="188000" />
+      <workItem from="1731984081362" duration="3421000" />
+      <workItem from="1731990241620" duration="127000" />
+      <workItem from="1732088388034" duration="79000" />
+      <workItem from="1732090665764" duration="421000" />
+      <workItem from="1732162979286" duration="2554000" />
+      <workItem from="1732170008152" duration="2965000" />
+      <workItem from="1732423965453" duration="220000" />
+      <workItem from="1732426227492" duration="1853000" />
+      <workItem from="1732502056679" duration="2079000" />
+      <workItem from="1732555343965" duration="5000" />
+      <workItem from="1732555364596" duration="1204000" />
+      <workItem from="1732587618132" duration="4477000" />
+      <workItem from="1732595199905" duration="3913000" />
+      <workItem from="1732688202591" duration="2471000" />
+      <workItem from="1732775350310" duration="2854000" />
+      <workItem from="1733034309969" duration="5730000" />
+      <workItem from="1733106822294" duration="8303000" />
+      <workItem from="1733192578085" duration="4500000" />
+      <workItem from="1733199954924" duration="2726000" />
+      <workItem from="1733305029591" duration="61000" />
+      <workItem from="1733373526998" duration="1869000" />
+      <workItem from="1733389522620" duration="121000" />
+      <workItem from="1733673965850" duration="1951000" />
+      <workItem from="1733709530715" duration="8649000" />
+      <workItem from="1733744072648" duration="610000" />
+      <workItem from="1733756691772" duration="3288000" />
+      <workItem from="1733799995396" duration="2100000" />
+      <workItem from="1733805245909" duration="3200000" />
+      <workItem from="1733891220389" duration="2525000" />
+      <workItem from="1733912898016" duration="23000" />
+      <workItem from="1733912940114" duration="685000" />
+      <workItem from="1734275604276" duration="367000" />
+      <workItem from="1734403206284" duration="2150000" />
+      <workItem from="1734513015225" duration="15000" />
+      <workItem from="1737427336626" duration="355000" />
+      <workItem from="1737448933826" duration="597000" />
+      <workItem from="1737451524841" duration="103000" />
+      <workItem from="1737601477971" duration="1812000" />
+      <workItem from="1737618932159" duration="202000" />
+      <workItem from="1737859948126" duration="3175000" />
+      <workItem from="1737866467562" duration="19000" />
+      <workItem from="1737942541298" duration="3563000" />
+      <workItem from="1737949071880" duration="741000" />
+      <workItem from="1737952052674" duration="3264000" />
+      <workItem from="1737957042751" duration="221000" />
+      <workItem from="1738033247956" duration="2512000" />
+      <workItem from="1738050081743" duration="86000" />
+      <workItem from="1738750132533" duration="954000" />
+      <workItem from="1738817229784" duration="264000" />
+      <workItem from="1738817508336" duration="4212000" />
+      <workItem from="1738895919977" duration="476000" />
+      <workItem from="1738899453456" duration="29000" />
+      <workItem from="1738902554139" duration="2758000" />
+      <workItem from="1739082928174" duration="6412000" />
+      <workItem from="1739120636787" duration="735000" />
+      <workItem from="1739153277727" duration="8451000" />
+      <workItem from="1739239065530" duration="2508000" />
+      <workItem from="1739247862411" duration="4096000" />
+      <workItem from="1739285689544" duration="56000" />
+      <workItem from="1739325172623" duration="2904000" />
+      <workItem from="1739329491643" duration="86000" />
+      <workItem from="1739415031498" duration="4025000" />
+      <workItem from="1739434806763" duration="81000" />
+      <workItem from="1739501412207" duration="3053000" />
+      <workItem from="1739512179836" duration="43000" />
+      <workItem from="1739670851692" duration="2621000" />
+      <workItem from="1739695085174" duration="2078000" />
+      <workItem from="1739727437888" duration="1891000" />
+      <workItem from="1739762034005" duration="597000" />
+      <workItem from="1739766451750" duration="1054000" />
+      <workItem from="1739782356541" duration="41000" />
+      <workItem from="1739904550266" duration="92000" />
+      <workItem from="1739930024541" duration="4987000" />
+      <workItem from="1739941732644" duration="60000" />
+      <workItem from="1740104372156" duration="2811000" />
+      <workItem from="1740422615115" duration="559000" />
+      <workItem from="1740454473009" duration="435000" />
+      <workItem from="1740459877312" duration="1280000" />
+      <workItem from="1740468378692" duration="387000" />
+      <workItem from="1740637550670" duration="786000" />
+      <workItem from="1740669930873" duration="194000" />
+      <workItem from="1741228933204" duration="798000" />
+      <workItem from="1741847912473" duration="2085000" />
+      <workItem from="1741965264751" duration="21000" />
+      <workItem from="1742116190496" duration="597000" />
+      <workItem from="1742227349467" duration="218000" />
+      <workItem from="1742475303635" duration="744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$ForLoop4.coverage" NAME="ForLoop4 Coverage Results" MODIFIED="1733892155231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L15ComparisonOperator3.coverage" NAME="L15ComparisonOperator3 Coverage Results" MODIFIED="1722931680675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q7NestedLoop.coverage" NAME="Q7NestedLoop Coverage Results" MODIFIED="1723089438671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q9RemoveDuplicatesFromList__1_.coverage" NAME="Q9RemoveDuplicatesFromList (1) Coverage Results" MODIFIED="1723097388249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q14.coverage" NAME="Q14 Coverage Results" MODIFIED="1739164309657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L12MultipleLogicalOperators.coverage" NAME="L12MultipleLogicalOperators Coverage Results" MODIFIED="1722929497075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hello.coverage" NAME="hello Coverage Results" MODIFIED="1739935228628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$L14ComparisonOperator2.coverage" NAME="L14ComparisonOperator2 Coverage Results" MODIFIED="1722929962426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$operatorsInPython.coverage" NAME="operatorsInPython Coverage Results" MODIFIED="1722925030640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q13Practice.coverage" NAME="Q13Practice Coverage Results" MODIFIED="1727431396604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$ReadingAndWritingBoth.coverage" NAME="ReadingAndWritingBoth Coverage Results" MODIFIED="1739084067352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q7.coverage" NAME="Q7 Coverage Results" MODIFIED="1739163062152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q1.coverage" NAME="Q1 Coverage Results" MODIFIED="1739249165553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L24ListFunctions.coverage" NAME="L24ListFunctions Coverage Results" MODIFIED="1723094711322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q10Dictionaries.coverage" NAME="Q10Dictionaries Coverage Results" MODIFIED="1723105002968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L5StringMethods.coverage" NAME="L5StringMethods Coverage Results" MODIFIED="1737862927548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$L17WhileLoopExample.coverage" NAME="L17WhileLoopExample Coverage Results" MODIFIED="1739932374807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$L23Lists2D.coverage" NAME="L23Lists2D Coverage Results" MODIFIED="1733374836760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q6.coverage" NAME="Q6 Coverage Results" MODIFIED="1739250050768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$WritingToAJSONFile.coverage" NAME="WritingToAJSONFile Coverage Results" MODIFIED="1740454805974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$formattedString.coverage" NAME="formattedString Coverage Results" MODIFIED="1722841862813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q11Dictionaries.coverage" NAME="Q11Dictionaries Coverage Results" MODIFIED="1723110032248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L15IfElifElse.coverage" NAME="L15IfElifElse Coverage Results" MODIFIED="1737944916359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$accuracyCalculate.coverage" NAME="accuracyCalculate Coverage Results" MODIFIED="1726764840143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L9MathFunction.coverage" NAME="L9MathFunction Coverage Results" MODIFIED="1737943587218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$Classwork4.coverage" NAME="Classwork4 Coverage Results" MODIFIED="1732776213874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$WritingToACSVFile.coverage" NAME="WritingToACSVFile Coverage Results" MODIFIED="1740454694027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$poundToKilogram.coverage" NAME="poundToKilogram Coverage Results" MODIFIED="1722838854056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q4ComplexConditionals.coverage" NAME="Q4ComplexConditionals Coverage Results" MODIFIED="1723015778155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1739087161293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$AppendingToATextFile.coverage" NAME="AppendingToATextFile Coverage Results" MODIFIED="1739083595597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L16WhileLoop.coverage" NAME="L16WhileLoop Coverage Results" MODIFIED="1739931930557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q3BooleanLogic.coverage" NAME="Q3BooleanLogic Coverage Results" MODIFIED="1723015397950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$ForLoop3.coverage" NAME="ForLoop3 Coverage Results" MODIFIED="1733892130023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$ComparisonOperator.coverage" NAME="L13ComparisonOperator Coverage Results" MODIFIED="1722929955772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$L7OperatorsInPython.coverage" NAME="L7OperatorsInPython Coverage Results" MODIFIED="1737942859363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q19.coverage" NAME="Q19 Coverage Results" MODIFIED="1739158852954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L8OperatorPrecedence.coverage" NAME="L8OperatorPrecedence Coverage Results" MODIFIED="1727074038726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q9.coverage" NAME="Q9 Coverage Results" MODIFIED="1739250317062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1726590782888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1739422958746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$imported_function_use.coverage" NAME="imported_function_use Coverage Results" MODIFIED="1740637624113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/ImportingFunctions" />
+    <SUITE FILE_PATH="coverage/pythonProject$ForLoop5.coverage" NAME="ForLoop5 Coverage Results" MODIFIED="1733892196872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q12FunctionsReturn.coverage" NAME="Q12FunctionsReturn Coverage Results" MODIFIED="1723177158489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L6formattedString.coverage" NAME="L6formattedString Coverage Results" MODIFIED="1727072447410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$ForLoop10.coverage" NAME="ForLoop10 Coverage Results" MODIFIED="1733893473059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q12.coverage" NAME="Q12 Coverage Results" MODIFIED="1739164040855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L22Lists.coverage" NAME="L22Lists Coverage Results" MODIFIED="1739673239566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$L1VariableinItialization.coverage" NAME="L1VariableinItialization Coverage Results" MODIFIED="1731567480947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$WritingToATextFile.coverage" NAME="WritingToATextFile Coverage Results" MODIFIED="1739083161677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$takeUserInput.coverage" NAME="takeUserInput Coverage Results" MODIFIED="1722838273896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ForLoop7.coverage" NAME="ForLoop7 Coverage Results" MODIFIED="1733892852438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q11.coverage" NAME="Q11 Coverage Results" MODIFIED="1739250529270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L29PassingParameterToFunction.coverage" NAME="L29PassingParameterToFunction Coverage Results" MODIFIED="1723175296047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q5NotOperator.coverage" NAME="Q5NotOperator Coverage Results" MODIFIED="1731987385428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L27Dictionaries.coverage" NAME="L27Dictionaries Coverage Results" MODIFIED="1723101954940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Forloop2.coverage" NAME="Forloop2 Coverage Results" MODIFIED="1733891564883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$pythonStrings.coverage" NAME="pythonStrings Coverage Results" MODIFIED="1722841313165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$L25Tuples.coverage" NAME="L25Tuples Coverage Results" MODIFIED="1723097838646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$L26UnpackingTuples.coverage" NAME="L26UnpackingTuples Coverage Results" MODIFIED="1723099696383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q20.coverage" NAME="Q20 Coverage Results" MODIFIED="1739158991822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$ForLoop.coverage" NAME="Q6ForLoop Coverage Results" MODIFIED="1723086954528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L2TakeUserInput.coverage" NAME="L2TakeUserInput Coverage Results" MODIFIED="1739327646867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$L27Sets.coverage" NAME="L27Sets Coverage Results" MODIFIED="1739673528951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1737427476642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q4.coverage" NAME="Q4 Coverage Results" MODIFIED="1739089427811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q21.coverage" NAME="Q21 Coverage Results" MODIFIED="1739422277116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L27DictionaryIntro.coverage" NAME="L27DictionaryIntro Coverage Results" MODIFIED="1733744173511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$L30ReturnInFunctions.coverage" NAME="L30ReturnInFunctions Coverage Results" MODIFIED="1723175300857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1739415725279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L4PythonStrings.coverage" NAME="L4PythonStrings Coverage Results" MODIFIED="1739672566311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$StringMethods.coverage" NAME="StringMethods Coverage Results" MODIFIED="1722842442858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$L31ExceptionHandling.coverage" NAME="L31ExceptionHandling Coverage Results" MODIFIED="1723180682576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ForLoop8.coverage" NAME="ForLoop8 Coverage Results" MODIFIED="1733893363116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L10IfStatement.coverage" NAME="L10IfStatement Coverage Results" MODIFIED="1739503868537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$operatorPrecedence.coverage" NAME="operatorPrecedence Coverage Results" MODIFIED="1722925037864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$L28Functions.coverage" NAME="L28Functions Coverage Results" MODIFIED="1723173188745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q10.coverage" NAME="Q10 Coverage Results" MODIFIED="1739250475761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L18WhileLoopExample2.coverage" NAME="L18WhileLoopExample2 Coverage Results" MODIFIED="1723014036966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$WritingAListToAFile.coverage" NAME="WritingAListToAFile Coverage Results" MODIFIED="1739084034168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L22Tuples.coverage" NAME="L22Tuples Coverage Results" MODIFIED="1739673401250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$L21NestedLoop.coverage" NAME="L21NestedLoop Coverage Results" MODIFIED="1723087506066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$L27Dictionary.coverage" NAME="L27Dictionary Coverage Results" MODIFIED="1739727558610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$L232DLists.coverage" NAME="L232DLists Coverage Results" MODIFIED="1723091543037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$L20ForLoop.coverage" NAME="L20ForLoop Coverage Results" MODIFIED="1737945863690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$Numbers.coverage" NAME="Numbers Coverage Results" MODIFIED="1731382324345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBootcamp" />
+    <SUITE FILE_PATH="coverage/pythonProject$greetings.coverage" NAME="greetings Coverage Results" MODIFIED="1738033546267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L19LoginSystem.coverage" NAME="L19LoginSystem Coverage Results" MODIFIED="1723018415503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q16.coverage" NAME="Q16 Coverage Results" MODIFIED="1739158411903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$DisplayCurrentDateTime.coverage" NAME="DisplayCurrentDateTime Coverage Results" MODIFIED="1740107027995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/ImportingFunctions" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q13.coverage" NAME="Q13 Coverage Results" MODIFIED="1739251056343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$ForLoop9.coverage" NAME="ForLoop9 Coverage Results" MODIFIED="1733893369899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$ReadingFromATextFile.coverage" NAME="ReadingFromATextFile Coverage Results" MODIFIED="1739083425120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q22.coverage" NAME="Q22 Coverage Results" MODIFIED="1739422985446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$OverrideUsingr_.coverage" NAME="OverrideUsingr+ Coverage Results" MODIFIED="1739084177625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L15TernaryOperator.coverage" NAME="L15TernaryOperator Coverage Results" MODIFIED="1739504173471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$ForLoop6.coverage" NAME="ForLoop6 Coverage Results" MODIFIED="1733892847131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/Basic Python Questions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L10GetSizeOf.coverage" NAME="L10GetSizeOf Coverage Results" MODIFIED="1731897367242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$ReadingLineByLine.coverage" NAME="ReadingLineByLine Coverage Results" MODIFIED="1739083453197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$L22ListsMethods.coverage" NAME="L22ListsMethods Coverage Results" MODIFIED="1733711929617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q3.coverage" NAME="Q3 Coverage Results" MODIFIED="1739087645863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q18.coverage" NAME="Q18 Coverage Results" MODIFIED="1739164450254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python FIles" />
+    <SUITE FILE_PATH="coverage/pythonProject$MyApp.coverage" NAME="MyApp Coverage Results" MODIFIED="1740422709948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Notebook" />
+    <SUITE FILE_PATH="coverage/pythonProject$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1737603428316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions/ImportingFunctions" />
+    <SUITE FILE_PATH="coverage/pythonProject$L3poundToKilogram.coverage" NAME="L3poundToKilogram Coverage Results" MODIFIED="1737862595253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$L7PythonBoolean.coverage" NAME="L7PythonBoolean Coverage Results" MODIFIED="1737943322339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python" />
+    <SUITE FILE_PATH="coverage/pythonProject$Q8Lists.coverage" NAME="Q8Lists Coverage Results" MODIFIED="1723090614249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticeQuestions" />
+  </component>
+</project>
